@@ -1,0 +1,10 @@
+----------- COMMANDS-----------
+!play or !p -- play music or add to queue if playing
+!skip -- skip the current playing song
+!queue or !q -- List the song in queue
+!clear or !c -- clear queue
+!resume - After stopping resume from next song in playlist
+!stop -- stop music 
+!playnext -- play the song after finishing current song
+
+
